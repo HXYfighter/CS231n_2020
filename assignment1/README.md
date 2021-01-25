@@ -1,4 +1,4 @@
-# CS231n_2020 Assignment1
+# CS231n_2020 Assignment 1
 
 [Official Website](https://cs231n.github.io/assignments2020/assignment1/)
 
